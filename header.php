@@ -53,22 +53,20 @@
           <ul class="dropdown-menu">            
             <li><a href="examples.php">Overview</a></li>            
             <li role="separator" class="divider"></li>
-            <li><a href="#">This Site</a></li>
+            <li><a href="site.php">Portfolio Website</a></li>
             <li><a href="kendo.php">Kendo MVVM</a></li>
+            <li><a href="react.php">React</a></li>
           </ul>
         </li>
 
-        <li class="dropdown">
+        <!-- <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects<span class="caret"></span></a>
           <ul class="dropdown-menu">    
             <li><a href="projects.php">Overview</a></li>            
             <li role="separator" class="divider"></li>
             <li><a href="#">MPCNC</a></li>
-            <li><a href="#">CarPc</a></li>
-            <li><a href="#">Theater</a></li>
-            <li><a href="#">Gaming PC</a></li>
           </ul>
-        </li>
+        </li> -->
 
       </ul>
 

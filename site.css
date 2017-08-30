@@ -1,33 +1,41 @@
 .m-r {
-    margin-right: 45px;
+    margin-right: 5em;
 }
 
 .m-l {
-    margin-left: 45px;
+    margin-left: 5em;
 }
 
 .p-l { 
-    padding-left: 45px;
+    padding-left: 5em;
 }
 
 .p-r {
-    padding-right: 45px;
+    padding-right: 5em;
 }
 
 .m-t {
-    margin-top: 45px;
+    margin-top: 5em;
+}
+
+.m-t-lg {
+    margin-top: 10em;
 }
 
 .m-b {
-    margin-bottom: 45px;
+    margin-bottom: 5em;
+}
+
+.m-b-lg {
+    margin-bottom: 10em;
 }
 
 .p-t {
-    padding-top: 45px;
+    padding-top: 2em;
 }
 
 .p-b {
-    padding-bottom: 45px;
+    padding-bottom: 2em;
 }
 
 .text-esrever {
@@ -79,3 +87,27 @@
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+.work-item {
+    margin-top: 2em;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+  }
+
+body {
+    margin-bottom: 20em;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 2em;    
+    height: 2em;
+    background-color: #333333;
+}
+  

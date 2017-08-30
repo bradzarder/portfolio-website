@@ -4,7 +4,7 @@
 <div class="container">
 
     <div class="page-header">
-        <h1>Brad Zarder <small>Senior Software Developer</small></h1>
+        <h1>Brad Zarder <small>Software Developer</small></h1>
     </div>
 
     <div class="row">
@@ -13,17 +13,18 @@
             <div class=row>
                 <h3 class="text-primary text-uppercase">// About</h3>
 
-                <p>I'm a professional software developer and this website is my résumé / CV / portfolio.</p>
+                <p>
+                    I am a software developer with over 6 years of professional software development experience and a lifelong passion for computers and technology.
+                    I specialize in web-based development using the latest technologies to create interactive, data-rich web based applications. 
+                </p>
 
-                <p>I have over 6 years of professional software development experience and a lifelong passion for computers and technology.</p>
-
-                <p>On this website you can find my resume (this page), sample projects, and some cool things I've been working on, as I have time do add them.</p>
+                <p>On this website you can find my resume, contact info, and <a href="examples.php">sample projects</a>.</p>
             </div>
           
             <div class="row m-t">
                 <h3 class="text-primary text-uppercase">// Experience</h3>            
         
-                <div class="row">
+                <div class="row work-item">
                     <div class="col-md-4">
                         <h4>Valiant Health</h4>
                         <h5>2013-2017</h5>
@@ -31,13 +32,13 @@
                     <div class="col-md-8">
                         <h4>Software Developer</h4>
                         <p>Design, develop, and deliver cutting-edge software for multiple customers in the health insurance industry.</p>
-                        <p>Using the latest tools and technology, create a web-based reporting and analitics software suite that lives in the cloud.</p>
+                        <p>Using the latest tools and technology, create a web-based reporting and analitics software suite that lives on the cloud.</p>
                     </div>
                 </div>
         
 
 
-                <div class="row">
+                <div class="row work-item">
                     <div class="col-md-4">
                         <h4>Kohl's Department Stores</h4>
                         <h5>2011-2013</h5>
@@ -52,7 +53,7 @@
         
             
 
-                <div class="row">
+                <div class="row work-item">
                     <div class="col-md-4">               
                         <h4>Briggs & Stratton</h4>            
                         <h5>2006-2011</h5>
@@ -106,7 +107,6 @@
                     </div>
                     <div class="col-sm-10">
                         <a id="email" href="mailto:me@example.com" class="text-esrever">moc.liamg@redrazdarb</a>
-                        
                     </div>
                 </div>
 
@@ -119,10 +119,19 @@
                     </div>
                 </div>
 
+                <div class="row">
+                    <div class="col-sm-2 text-center">
+                        <span class="lyphicon glyphicon-cloud" aria-hidden="true"></span>
+                    </div>
+                    <div class="col-sm-10">
+                        <a id="github" href="https://github.com/bradzarder">GitHub Profile</a>
+                    </div>
+                </div>
+
             </div>
             
       
-            <div class="row p-t">
+            <div class="row p-t m-t">
                 <h3 class="text-primary text-uppercase">// Skills</h3>
 
                 <label>C# / .Net MVC</label>
@@ -181,7 +190,7 @@
                     </div>
                 </div>
                  
-                <label>React</label>
+                <label><a href="react.php">React</a></label>
                 <div class="progress">
                     <div class="progress-bar" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style="width: 35%;">
                         <span class="sr-only">React</span>
@@ -196,19 +205,26 @@
 
 
 
-    <div class="row p-t">
-        <div class="col-lg-3">
+    <div class="row p-t m-t">
+
+        <div class="col-lg-4">
             <h4 class="text-primary text-uppercase">// Work Examples</h4>
+            <ul>
+                <li><a href="kendo.php">Kendo MVVM</a></li>
+                <li><a href="react.php">React</a></li>
+            </ul>
         </div>
-        <div class="col-lg-3">            
+
+        <div class="col-lg-3 col-lg-offset-1">            
             <h4 class="text-primary text-uppercase">// Projects</h4>
+            <a href="https://github.com/bradzarder">GitHub Profile</a>
         </div>
 
-        <div class="col-lg-3">            
+        <!-- <div class="col-lg-3">            
             <h4 class="text-primary text-uppercase">// Hobbies</h4>
-        </div>
+        </div> -->
 
-        <div class="col-lg-3">            
+        <div class="col-lg-3 col-lg-offset-1">            
             <h4 class="text-primary text-uppercase">// LinkedIn</h4>
             <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="brad-zarder"><a class="LI-simple-link" href='https://www.linkedin.com/in/brad-zarder?trk=profile-badge'>Brad Zarder</a></div>
         </div>
