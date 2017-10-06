@@ -32,7 +32,7 @@
                     <div class="col-md-8">
                         <h4>Software Developer</h4>
                         <p>Design, develop, and deliver cutting-edge software for multiple customers in the health insurance industry.</p>
-                        <p>Using the latest tools and technology, create a web-based reporting and analitics software suite that lives on the cloud.</p>
+                        <p>Using the latest tools and technology, create a web-based reporting and analytics software suite that lives on the cloud.</p>
                     </div>
                 </div>
         
@@ -96,7 +96,7 @@
         
         </div>
 
-        <div class="col-lg-4 p-l">
+        <div class="col-lg-4">
             
             <div class="row">
                 <h3 class="text-primary text-uppercase">// Contact</h3>
@@ -207,7 +207,7 @@
 
     <div class="row p-t m-t">
 
-        <div class="col-lg-4">
+        <div class="col-sm-4">
             <h4 class="text-primary text-uppercase">// Work Examples</h4>
             <ul>
                 <li><a href="kendo.php">Kendo MVVM</a></li>
@@ -215,7 +215,7 @@
             </ul>
         </div>
 
-        <div class="col-lg-3 col-lg-offset-1">            
+        <div class="col-sm-3 col-lg-offset-1">            
             <h4 class="text-primary text-uppercase">// Projects</h4>
             <a href="https://github.com/bradzarder">GitHub Profile</a>
         </div>
@@ -224,7 +224,7 @@
             <h4 class="text-primary text-uppercase">// Hobbies</h4>
         </div> -->
 
-        <div class="col-lg-3 col-lg-offset-1">            
+        <div class="col-sm-3 col-lg-offset-1">            
             <h4 class="text-primary text-uppercase">// LinkedIn</h4>
             <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="brad-zarder"><a class="LI-simple-link" href='https://www.linkedin.com/in/brad-zarder?trk=profile-badge'>Brad Zarder</a></div>
         </div>

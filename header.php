@@ -69,8 +69,14 @@
         </li> -->
 
       </ul>
+      
+      <a href="Brad Zarder Resume.docx" class="btn btn-primary navbar-btn">
+        <span class="glyphicon glyphicon-print" aria-hidden="true"></span>
+        Résumé
+      </a>
 
     </div><!-- /.navbar-collapse -->
+
   </div><!-- /.container-fluid -->
 </nav>
   
